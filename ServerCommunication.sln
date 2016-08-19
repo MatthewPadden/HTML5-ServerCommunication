@@ -25,6 +25,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AjaxWithjQuery", "src\AjaxW
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "16545"
+		SlnRelativePath = "src\AjaxWithjQuery\"
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "XMLHttpRequest", "src\XMLHttpRequest\", "{DF35D320-35A4-481D-A89B-114BAA3FBA3E}"
@@ -45,6 +46,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "XMLHttpRequest", "src\XMLHt
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "16546"
+		SlnRelativePath = "src\XMLHttpRequest\"
 	EndProjectSection
 EndProject
 Global
