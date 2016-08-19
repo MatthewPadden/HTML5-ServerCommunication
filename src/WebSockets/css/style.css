@@ -1,0 +1,18 @@
+﻿#log-container {
+  max-width: 800px;
+  padding: 2px 0;
+}
+#log {
+  min-height: 400px;
+  color: green;
+  background-color: black;
+}
+  #log span {
+    display: block;
+    padding: 10px 10px;
+    border-bottom: 1px dashed gray;
+  }
+
+#btn-disconnect {
+    display: none;
+}
